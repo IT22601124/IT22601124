@@ -12,29 +12,15 @@ I'm a Software Engineering undergraduate at SLIIT and an Associate Full-Stack De
 
 ## 🛠️ Technologies
 
-**Languages:** Java, Python, JavaScript, Kotlin, C++, PHP  
-**Frontend:** React, Bootstrap, HTML, CSS  
-**Mobile:** Flutter, React Native, Android  
-**Backend:** Node.js, Express, Laravel, Spring Boot  
-**Databases:** MySQL, MongoDB, Oracle, Firebase, SQLite  
-**Tools:** Git, Docker, Kubernetes, Postman  
-
-## 📂 Projects
-
-**Websites**
-- [vengase.com](https://vengase.com) - React, Node.js, MySQL
-- [cevluxs.com](https://cevluxs.com) - React, Node.js, MySQL
-- [luxirisgems.com](https://luxirisgems.com) - React, Node.js, Firebase
-- [allgaspvt.com](https://allgaspvt.com) - React, Node.js, Firebase
-
-**Mobile Apps**
-- The Food Hub - Food delivery (MERN, Docker, Kubernetes)
-- QuickFix - Garage finder (React Native, MongoDB, Node.js)
-- VisionMate - Object detection for visually impaired (React Native, AI/ML)
-
-## 📊 GitHub Stats
-
-![Tharindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT22601124&show_icons=true&theme=default)
+**Programming Languages :** JavaScript | C | C++ | Java | Python | Kotlin 
+**Web Technologies :** PHP | HTML | Java Script | CSS | Bootstrap | React | Angular
+**Frameworks :** Flutter | Larave | Spring boot | Node JS | Express.js | React Native
+**Platforms :** Firebase | NameChea (Web hosting) 
+**Databases :** My SQL | MSSQL | Mongo DB | Oracle | SQL Lite 
+**DevOp / Tools:** GIT | Docker | Kubernetes Tools: MS office | Adobe Photoshop |
+**Canv Adobe After effect | Adobe Illustrator 
+**ID E’s:** Android studio | Visual Studio Code | Eclipse | NetBeans | IntelliJ IDEA 
+**Methodologies :** Agile | Scrum | SDLC Operating Systems: Windows, Linux, macOS 
 
 ## 📫 Connect
 
