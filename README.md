@@ -1,5 +1,7 @@
 # Hi there, I'm Tharindu Herath 👋
 
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 I'm a Software Engineering undergraduate at SLIIT and an Associate Full-Stack Developer at Weblook International (Pvt) Ltd.
 
 ## 👨‍💻 About Me
