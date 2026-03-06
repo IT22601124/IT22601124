@@ -83,20 +83,6 @@ I'm a dedicated and self-motivated **Software Engineering undergraduate** at SLI
 - **Online Car Rental System** - HTML, CSS, Bootstrap, PHP, MySQL
 - **Online Food Delivery System** - Java, HTML, CSS, MySQL
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT22601124&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT22601124&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22601124&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## 🏆 Certifications
 - **Scrum Foundation Professional Certificate** - CertiProf (SFCP) [2024]
 - **AWS Machine Learning** - Amazon Web Services/Coursera [2023]
