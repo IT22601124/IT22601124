@@ -1,4 +1,4 @@
-# Hi there, I'm Tharindu Herath 👋
+# Hi there, I'm Tharindu Herath 
 
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
